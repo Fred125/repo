@@ -1,7 +1,7 @@
 ---
-sort: 1
+show_sorted: false
 ---
 
-# Docs folder
-
-{% include list.liquid all=true %}
+Enterprise architectuur/README.md
+Data architectuur/README.md
+Informatie architectuur/README.md
