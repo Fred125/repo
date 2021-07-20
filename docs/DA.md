@@ -8,7 +8,7 @@ sort: 3
 
 | Nummer | Principe |
 |--------|----------|
-| GP-01 | Toegankelijkheid informatie |
+| GP-01 | [Toegankelijkheid informatie] {{%site.baseurl%}}{link GP-01.md} |
 | GP-02 | Hanteren gemeenschappelijk begrippenkader |
 | GP-03 | Borgen gegevenskwaliteit |
 | GP-04 | Beleggen gegevensverantwoordelijkheid |
