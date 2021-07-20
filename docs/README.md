@@ -2,6 +2,6 @@
 sort: 1
 ---
 
-# Repository
+# Architectuur
 ## Werken aan architectuur
 ## Werken onder architectuur
