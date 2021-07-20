@@ -3,5 +3,6 @@ Sort: 4
 ---
 
 # Integratie Architectuur
-## Standaarden
+## Verplichte Standaarden
+## Aanbevolen Standaarden
 
