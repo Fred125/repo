@@ -5,8 +5,9 @@ sort: 3
 # Data Architectuur
 
 # Principes
+
 | Nummer | Principe |
-| ------ | -------- |
+|--------|----------|
 | GP-01 | Toegankelijkheid informatie |
 | GP-02 | Hanteren gemeenschappelijk begrippenkader |
 | GP-03 | Borgen gegevenskwaliteit |
