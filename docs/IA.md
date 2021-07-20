@@ -6,4 +6,3 @@ sort: 2
 # Processen
 # Diensten en Producten
 
-{% include list.liquid all=true %}
