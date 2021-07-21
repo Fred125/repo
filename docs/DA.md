@@ -11,21 +11,21 @@ In het kader van het project OMDISK zijn de volgende principes verzameld en vast
 | Nummer | Principe |
 |--------|----------|
 | [GP-01](DA/GP-01.md) | Toegankelijkheid informatie |
-| [GP-02]{{ site.baseurl }}{% link /docs/DA/GP-01.md %}  | Hanteren gemeenschappelijk begrippenkader |
-| [GP-03]{{ site.baseurl }}{% link /docs/DA/GP-01.md %}  | Borgen gegevenskwaliteit |
-| [GP-04]{{ site.baseurl }}{% link /docs/DA/GP-01.md %}  | Beleggen gegevensverantwoordelijkheid |
-| [GP-05]{{ site.baseurl }}{% link /docs/DA/GP-01.md %}  | Hanteren basis- en ketenregistraties |
-| [GP-06]{{ site.baseurl }}{% link /docs/DA/GP-01.md %}  | Hanteren kernregisters |
-| [GP-07]{{ site.baseurl }}{% link /docs/DA/GP-01.md %}  | Terugmelden gerede twijfel juistheid |
-| [GP-08]{{ site.baseurl }}{% link /docs/DA/GP-01.md %}  | Vastleggen metadata |
-| [GP-09]{{ site.baseurl }}{% link /docs/DA/GP-01.md %}  | Hanteren gemeenschappelijk Aa en Maas-gegevensmodel |
-| [GP-10]{{ site.baseurl }}{% link /docs/DA/GP-01.md %}  | Archiveren gegevens waar vereist |
-| [GP-11]{{ site.baseurl }}{% link /docs/DA/GP-01.md %}  | Vastlegging en controle bij de bron |
+| [GP-02](DA/GP-02.md) | Hanteren gemeenschappelijk begrippenkader |
+| [GP-03](DA/GP-03.md) | Borgen gegevenskwaliteit |
+| [GP-04](DA/GP-04.md) | Beleggen gegevensverantwoordelijkheid |
+| [GP-05](DA/GP-05.md) | Hanteren basis- en ketenregistraties |
+| [GP-06](DA/GP-06.md) | Hanteren kernregisters |
+| [GP-07](DA/GP-07.md) | Terugmelden gerede twijfel juistheid |
+| [GP-08](DA/GP-08.md) | Vastleggen metadata |
+| [GP-09](DA/GP-09.md) | Hanteren gemeenschappelijk Aa en Maas-gegevensmodel |
+| [GP-10](DA/GP-10.md) | Archiveren gegevens waar vereist |
+| [GP-11](DA/GP-11.md) | Vastlegging en controle bij de bron |
 
 
 De [WILMA](https://wilmaonline.nl) (waterschaps referentie architectuur) kent een beperkt aantal afgeleide principes aangaande de datalaag:
 
-| Nummer | Principe |
+| Nummer | Afgeleid principe |
 |--------|----------|
 | [AP03](https://www.wilmaonline.nl/index.php/WILMA/id-6f81305c-9c48-4145-a9e1-23c8bd428eaf) | Eén authentieke bron |
 | [AP04](https://www.wilmaonline.nl/index.php/WILMA/id-a60f29f9-0092-42be-a9f8-dc20515b1a59) | Doelmatige gegevensvastlegging en -verwerking |
