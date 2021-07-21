@@ -1,14 +1,17 @@
-title: Architectuur
-lang: en
-description: Architectuur kaders en richtlijnen
+title: Architectuur Repository
+lang: nl
+description: Architectuur,kaders en richtlijnen, best-practices
+github_username: Fred125
 
 remote_theme: rundocs/jekyll-rtd-theme
 
+# Set this to true to get LaTeX math equation support
+# use_math:
+
 readme_index:
   with_frontmatter: true
-
   
- relative_links:
+relative_links:
     enabled: true
     collections: true
 
