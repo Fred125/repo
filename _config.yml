@@ -16,3 +16,9 @@ plugins:
   - jemoji
   - jekyll-avatar
   - jekyll-mentions
+  
+  relative_links:
+    enabled: true
+    collections: true
+ 
+  
