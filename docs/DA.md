@@ -4,7 +4,7 @@ sort: 3
 
 # Data Architectuur
 
-# Principes
+## Principes
 
 In het kader van het project OMDISK zijn de volgende principes verzameld en vastgesteld.
 
