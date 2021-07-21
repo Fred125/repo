@@ -1,5 +1,5 @@
 ---
-Sort: 4
+Sort: 5
 ---
 
 # Integratie Architectuur
