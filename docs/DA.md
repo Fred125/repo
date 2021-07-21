@@ -23,7 +23,7 @@ In het kader van het project OMDISK zijn de volgende principes verzameld en vast
 | [GP-11]{{ site.baseurl }}{% link /docs/DA/GP-01.md %}  | Vastlegging en controle bij de bron |
 
 
-De [WILMA](https://wilmaonline.nl) kent een aantal afgeleide principes die betrekking hebben op de datalaag:
+De [WILMA](https://wilmaonline.nl) (waterschaps referentie architectuur) kent een beperkt aantal afgeleide principes aangaande de datalaag:
 
 | Nummer | Principe |
 |--------|----------|
@@ -33,9 +33,9 @@ De [WILMA](https://wilmaonline.nl) kent een aantal afgeleide principes die betre
 | [AP18](https://www.wilmaonline.nl/index.php/WILMA/id-2842c036-aaca-48ac-9abe-78a5e63ee9d0) | De dienstverlener waarborgt de integriteit van gegevens en systeemfuncties |
 
 
-De [GEMMA](https://www.gemmaonline.nl/index.php/Gemeentelijke_Model_Architectuur_(GEMMA)) (gemeenten) noemt 3 hoofd- en 8 afgeleide principes (zie [Tactisch Gegevensmanagement](https://www.gemmaonline.nl/index.php/GMT_Principes)). Deze principes houden we in het achterhoofd: in essentie wijken ze niet af, maar geven soms net even een andere context.
+De [GEMMA](https://www.gemmaonline.nl/index.php/Gemeentelijke_Model_Architectuur_(GEMMA)) (gemeentelijke referentie architectuur) noemt 3 hoofd- en 8 afgeleide principes (zie [Tactisch Gegevensmanagement](https://www.gemmaonline.nl/index.php/GMT_Principes)). Deze principes houden we in het achterhoofd: in essentie wijken ze niet af, maar geven soms net even een andere context.
 
-| Nummer | Principe |
+| Nummer | Hoofdprincipe |
 |--------|----------|
 | GM-BP1 | Gegevens zijn een bedrijfsmiddel en hebben waarde |
 | GM-BP2 | Gegevens worden gedeeld |
@@ -56,8 +56,7 @@ De [GEMMA](https://www.gemmaonline.nl/index.php/Gemeentelijke_Model_Architectuur
 # Diensten en Producten
 
 ## Woordenboek
-Het woordenboek bevat de begrippen die in de organisatie gebruikt worden (thesaurus), gekoppeld aan andere begrippenlijsten (zoals [overheid.nl(https://www.overheid.nl/help/officiele-bekendmakingen/begrippenlijst#H)]) of thesaurussen (zie [standaarden.overheid.nl](https://standaarden.overheid.nl/owms/terms/Thesaurus))
-
+Het woordenboek bevat de begrippen die in de organisatie gebruikt worden (thesaurus), gekoppeld aan andere begrippenlijsten (zoals [overheid.nl](https://www.overheid.nl/help/officiele-bekendmakingen/begrippenlijst#H)]) en andere thesaurussen (zie [standaarden.overheid.nl](https://standaarden.overheid.nl/owms/terms/Thesaurus))
 
 ## CDM
 Een Canonical Datamodel (CDM) beschrijft alle gebruikte (bron)data in de meest simpele vorm ter ondersteuning van gegevensuitwisseling tussen diverse systemen (ongeacht taal-, syntax en protocol verschillen).
