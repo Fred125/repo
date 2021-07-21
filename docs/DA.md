@@ -10,7 +10,7 @@ De principes voor data architectuur zorgen voor een samenhangende inrichting van
 
 | Nummer | Principe |
 |--------|----------|
-| [GP-01] ({{ site.baseurl }}{% link /docs/DA/GP-01.md %}) | Toegankelijkheid informatie |
+| [GP-01] (DA/GP-01.md) | Toegankelijkheid informatie |
 | [GP-02] {{ site.baseurl }}{% link /docs/DA/GP-01.md %}  | Hanteren gemeenschappelijk begrippenkader |
 | [GP-03] {{ site.baseurl }}{% link /docs/DA/GP-01.md %}  | Borgen gegevenskwaliteit |
 | [GP-04] {{ site.baseurl }}{% link /docs/DA/GP-01.md %}  | Beleggen gegevensverantwoordelijkheid |
