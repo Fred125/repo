@@ -23,7 +23,7 @@ In het kader van het project OMDISK zijn de volgende dataprincipes verzameld en 
 | [GP-11](DA/GP-11.md) | Vastlegging en controle bij de bron |
 
 
-De [WILMA](https://wilmaonline.nl) (waterschaps referentie architectuur) kent een beperkt aantal afgeleide principes aangaande de datalaag:
+De [WILMA](https://wilmaonline.nl) (waterschaps referentie architectuur) kent deze dataprincipes:
 
 | Nummer | Afgeleid principe |
 |--------|----------|
