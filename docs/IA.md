@@ -13,6 +13,15 @@ Door de kwartiermakers van de nieuwe afdeling WADI zijn op de informatie/applica
 | [IP-02](https://aaenmaas.topdesk.net/tas/public/ssp/content/detail/knowledgeitem?unid=4a1a474798e64372a6808ab9d0b4b135) | Multidisciplinaire aanpak bij van vraag naar aanbod |
 | [IP-03](https://aaenmaas.topdesk.net/tas/public/ssp/content/detail/knowledgeitem?unid=faafa54531a1415c914ffd3e4240d6d6) | Focus op meerwaarde voor gebruiker |
 
+De WILMA kent nog een aantal andere relevante principes, of verwoordt de bovenstaande principes net iets anders:
+
+| Nummer | Principe |
+|--------|----------|
+| [BP-01](https://www.wilmaonline.nl/index.php/WILMA/id-1f99b69e-f824-4bf5-a117-820c56350fcd) | Ons waterschap biedt de klant een goede informatiepositie |
+| [BP-02](https://www.wilmaonline.nl/index.php/WILMA/id-14888cf5-6025-499f-8598-2afcae9a0750) | Ons waterschap denkt vanuit de positie van de klant |
+| [BP-03](https://www.wilmaonline.nl/index.php/WILMA/id-881ede29-93fa-4cad-879b-04c3e3597d6b) | Ons waterschap digitaliseert haar diensten en processen |
+
+
 # Processen
 ## Informatiemanagement
 In dit proces worden informatievraagstukken verdiept en uitgewerkt. Utigangspunten (by design) zijn:
