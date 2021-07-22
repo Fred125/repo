@@ -6,7 +6,7 @@ sort: 3
 
 ## Principes
 
-In het kader van het project OMDISK zijn de volgende principes verzameld en vastgesteld.
+In het kader van het project OMDISK zijn de volgende dataprincipes verzameld en vastgesteld.
 
 | Nummer | Principe |
 |--------|----------|
