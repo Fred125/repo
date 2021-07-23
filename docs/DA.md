@@ -56,7 +56,7 @@ De [GEMMA](https://www.gemmaonline.nl/index.php/Gemeentelijke_Model_Architectuur
 # Diensten en Producten
 
 ## Woordenboek
-Het woordenboek bevat de begrippen die in de organisatie gebruikt worden (thesaurus), gekoppeld aan andere begrippenlijsten (zoals die op [overheid.nl](https://www.overheid.nl/help/officiele-bekendmakingen/begrippenlijst#H)) en andere thesaurussen (bijvoorbeeld [standaarden.overheid.nl](https://standaarden.overheid.nl/owms/terms/Thesaurus))
+Het woordenboek bevat de begrippen die in de organisatie gebruikt worden (thesaurus), gekoppeld aan begrippenlijsten (zoals die op [overheid.nl](https://www.overheid.nl/help/officiele-bekendmakingen/begrippenlijst#H)) en thesaurussen van andere organisaties (bijvoorbeeld [standaarden.overheid.nl](https://standaarden.overheid.nl/owms/terms/Thesaurus)).
 
 ## CDM
 Een Canonical Datamodel (CDM) beschrijft alle gebruikte (bron)data in de meest simpele vorm ter ondersteuning van gegevensuitwisseling tussen diverse systemen (ongeacht taal-, syntax en protocol verschillen).
