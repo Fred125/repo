@@ -24,7 +24,7 @@ De WILMA kent nog een aantal andere relevante principes, of verwoordt de bovenst
 
 # Processen
 ## Informatiemanagement
-In dit proces worden informatievraagstukken verdiept en uitgewerkt. Utigangspunten (by design) zijn:
+In dit proces worden informatievraagstukken verdiept en uitgewerkt. Uitgangspunten (by design) zijn:
 -  informatieveiligheid
 -  privacy
 -  inkoop
