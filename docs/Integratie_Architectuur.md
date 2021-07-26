@@ -10,13 +10,13 @@ Bij <b>systeemkoppelingen</b> is er sprake van afstemming tussen verschillende s
 
 Bij <b>data integratie</b> is er geen sprake van systeemaanpassingen. De data wordt in dit geval uit de systemen opgehaald en bij elkaar gebracht. De data is daarbij goed en eenduidig beschreven zodat deze buiten de oorspronkelijke systemen verder kan worden bewerkt.
 
-Bij data integratie gaat het om de volgende vraagstelling:
+Bij data integratie gaat het om de volgende vragen:
 * Wat is het doel en welke data moet daarvoor geïntegreerd worden
 * Vanuit welke systemen moet de data worden geïntegreerd
 * Is alle data wel aanwezig en wat is de kwaliteit daarvan
 * Om welke volumes het gaat
 * Wie de eigenaar is van de data
-* Is er al een best-practice voor deze integratie
+* Is er een best-practice voor deze integratie
 
 ## Verplichte Standaarden
 
@@ -41,7 +41,7 @@ Bij Integratie Architectuur betreft het data die buiten de context van systemen 
 | Geo-Standaarden (koppelvlakken) | Geografische informatie |
 | NL GOV Assurance profile for OAuth 2.0 | Beveiligingstandaard voor het autoriseren van toegang tot REST API’s |
 
-Zie [Forum standaardisatie](https://www.forumstandaardisatie.nl/open-standaarden/verplicht
+Zie [Forum standaardisatie](https://www.forumstandaardisatie.nl/open-standaarden/verplicht)
 
 ## Aanbevolen Standaarden
 
