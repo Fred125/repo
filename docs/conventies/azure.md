@@ -25,7 +25,7 @@ Standaard waarde (gezien opslag van data buiten EU niet toegestaan is):
 * westeu
 
 # Dtap
-De dtap is een letteraanduiding die aangeeft wat voor omgeving het betreft.
+De dtap is een aanduiding die aangeeft wat voor omgeving het betreft.
 
 | Aanduiding | omgeving |
 |------------|----------|
@@ -35,6 +35,6 @@ De dtap is een letteraanduiding die aangeeft wat voor omgeving het betreft.
 | p | productie |
 
 # Instancenummer
-Dit is wat een resourceaanduiding uniek maakt. De toekenning van dit nummer is de verantwoordelijkheid van een persoon of een script.
+Dit is wat een resourcenaam uniek maakt. De toekenning van dit nummer is de verantwoordelijkheid van een persoon of een script.
 Het eerstvolgende (vrije) nummer is niet automatisch opvraagbaar.
 
