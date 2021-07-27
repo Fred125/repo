@@ -9,3 +9,4 @@ sort: 6
 | [Aquo begrippen](https://aquo.begrippenxl.nl/nl/)| Het online woordenboek voor waterbegrippen |
 | [GEMMA Online](https://www.wilmaonline.nl/index.php/Hoofdpagina) | Referentiearchitectuur Gemeenten |
 | [WILMA Online](https://www.wilmaonline.nl/index.php/Hoofdpagina) | Referentiearchitectuur Waterschappen |
+| [Wilma software catalogus](https://www.wswc.nl/) | Wilma Software Catalogus |
